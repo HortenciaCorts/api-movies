@@ -71,7 +71,7 @@
     color: #999;
 }
 
-@media(max-width: 760px){
+@media(max-width: 768px){
     .featured{
         height: 90vh;
     }
